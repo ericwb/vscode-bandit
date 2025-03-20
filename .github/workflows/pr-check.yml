@@ -118,4 +118,4 @@ jobs:
       - name: Run TS tests
         uses: GabrielBB/xvfb-action@v1.6
         with:
-          run: npm run tests
+          run: npm run test
